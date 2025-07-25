@@ -66,6 +66,7 @@ terraform apply
 - Verifique no console da OCI **as imagens compatíveis com o shape A1.Flex**
 - Confirme se o par de chaves SSH está correto para acessar os nós
 - Use **apenas os recursos do Always Free** para não gerar custos
+- Para que não tenha erros no provisionamento do ambiente via terraform é importante fazer upgrade da sua conta para "Pays as You Go" porém utilizando somente os recursos Always Free, não terá cobranças
 
 ## 🧩 Baseado em
 
